@@ -68,7 +68,7 @@ login.onclick = (e) => {
                 'success'
             );
             setTimeout(() => {
-                location.href = ' http://127.0.0.1:5500/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20kh%C3%B3a/Trang%20ch%E1%BB%A7/Trang%20ch%E1%BB%A7.html';
+                location.href = 'https://rimuru-kin.github.io/khaideptrai/Trang%20ch%E1%BB%A7/Trang%20ch%E1%BB%A7.html';
             }, 1000)
         } else {
             swal(
