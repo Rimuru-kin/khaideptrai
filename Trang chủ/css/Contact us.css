@@ -27,7 +27,7 @@ body {
     height: 100%;
     left: 0;
     top: 0;
-    background: url("img/bg.jpg") no-repeat center;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHC38QhDflUP2Go8q58EZeNtEIKNgyB60K28BNPzuqu7yF6tRygypojCb1gZYpQC3Pa8&usqp=CAU") no-repeat center;
     background-size: cover;
     filter: blur(50px);
     z-index: -1;
@@ -45,7 +45,7 @@ body {
 }
 
 .left {
-    background: url("/image/bg.jpg") no-repeat center;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHC38QhDflUP2Go8q58EZeNtEIKNgyB60K28BNPzuqu7yF6tRygypojCb1gZYpQC3Pa8&usqp=CAU") no-repeat center;
     background-size: cover;
     height: 100%;
 }
